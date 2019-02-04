@@ -1,5 +1,13 @@
 package com.example.dustinmcrorie.cardiobook;
 
+
+/**
+ * This class is the essential class for this application;
+ * it stores cardio information, date and time, and a comment if the user
+ * so desires to put one.
+ * @author Dustin McRorie
+ * @version 1.0
+ */
 public class Measurement {
 
     private String date;
